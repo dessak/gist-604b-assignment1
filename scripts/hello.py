@@ -17,6 +17,7 @@ def main():
 
     # Add your own message here!
     print("I am learning GIS so that I can do environmental analysis")
+    print('Updated in Codespaces')
 
 if __name__ == "__main__":
     main()
