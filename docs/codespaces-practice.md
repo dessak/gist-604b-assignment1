@@ -4,11 +4,11 @@
 **Date:** 2026.03.30
 
 ## Initial Observations
-- What felt straightforward?
+- What felt straightforward?  
 I was already familiar with the basics of github so the mechanics are straightforward to me.
-- What felt unfamiliar?
+- What felt unfamiliar?  
 Codespaces is new and unfamiliar to me.
-- Where is the Source Control panel located?
+- Where is the Source Control panel located?  
 Source control panel can be accessed by clicking on the branch icon on the left side of the screen.
 
 ## Understanding Git Workflow
